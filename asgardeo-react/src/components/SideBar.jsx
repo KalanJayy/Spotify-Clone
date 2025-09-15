@@ -13,7 +13,7 @@ export default function SideBar() {
     <aside className="h-screen w-64 bg-black text-gray-200 flex flex-col">
       {/* Logo / Title */}
       <div className="h-16 flex items-center px-6 text-xl font-bold border-b border-neutral-800 text-green-500">
-        My Spotify
+        <a href="/">My Spotify</a>
       </div>
 
       {/* Nav Links */}

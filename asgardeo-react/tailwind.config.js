@@ -7,7 +7,6 @@ export default {
   theme: {
     extend: {
       colors: {
-        // 🎨 Spotify-inspired dark palette
         background: "#121212", // main dark background
         sidebar: "#000000",    // pure black sidebar
         card: "#181818",       // for cards / containers
