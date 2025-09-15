@@ -7,9 +7,9 @@ function App() {
   return (
     <header>
       <SignedIn>
-        <div className='h-screen flex'>
+        <div className=''>
           <SideBar/>
-          <main className='flex-1 bg-neutral-900 text-white p-6'>
+          <main className=''>
             <Home/>
           </main>
         </div>
